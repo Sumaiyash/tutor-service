@@ -1,44 +1,44 @@
 [
     {
         "id": 1,
-        "name": "Batch tuition",
-        "price": "3000",
-        "description": "2 Senior Photographer,3 junior photographer",
-        "img": "https://www.uwinnipeg.ca/future-student/images/tuition-fees.jpg"
+        "name": "Elementary",
+        "price": "10000",
+        "description": "1 Senior Photographer",
+        "img": "https://i.ibb.co/jJqPVJ1/service1.jpg"
     },
     {
         "id": 2,
-        "name": "Private Tuition",
-        "price": "10000",
-        "description": "2 Top Photographer,1 junior photographer",
-        "img": ""
+        "name": "Economy",
+        "price": "12500",
+        "description": "1 Top Photographer",
+        "img": "https://i.ibb.co/2vnH4xv/service2.jpg"
     },
     {
         "id": 3,
-        "name": "Special Batch",
-        "price": "15000",
-        "description": "1 Senior Photographer,1 junior photographer",
-        "img": ""
+        "name": "Smart",
+        "price": "1000",
+        "description": "1 Senior Photographer",
+        "img": "https://i.ibb.co/dphcxvh/service3.jpg"
     },
     {
         "id": 4,
-        "name": "Model Test Batch",
-        "price": "20000",
-        "description": "3 Senior Photographer,1 junior photographer",
-        "img": ""
+        "name": "Standard",
+        "price": "1000",
+        "description": "1 Senior Photographer",
+        "img": "https://i.ibb.co/SJYWV27/service4.jpg"
     },
     {
         "id": 5,
-        "name": "Home Tutor",
-        "price": "10000",
-        "description": "2 Senior Photographer,1 junior photographer",
-        "img": ""
+        "name": "Premium",
+        "price": "1000",
+        "description": "1 Senior Photographer",
+        "img": "https://i.ibb.co/GdvgMd8/service5.jpg"
     },
     {
         "id": 6,
-        "name": "Online Tuition",
-        "price": "5000",
-        "description": "1 Senior Photographer1 , junior photographer ",
-        "img": ""
+        "name": "Enjoy Unlimited",
+        "price": "1000",
+        "description": "1 Senior Photographer",
+        "img": "https://i.ibb.co/44pBQpw/woman-s-face-1988681.jpg"
     }
 ]

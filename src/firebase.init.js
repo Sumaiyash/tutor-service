@@ -6,17 +6,16 @@ import { getAuth } from "firebase/auth";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBl5-DOjwzuNRWwC45tTVC8mlEqkOnRTno",
-  authDomain: "tutor-47cd0.firebaseapp.com",
-  projectId: "tutor-47cd0",
-  storageBucket: "tutor-47cd0.appspot.com",
-  messagingSenderId: "134660769038",
-  appId: "1:134660769038:web:47bf3009944349dbb6c35f"
+    apiKey: "AIzaSyDBU9hq1LebPKoDEfxpVgPYHRw2w-SuAvM",
+    authDomain: "nfs-photography.firebaseapp.com",
+    projectId: "nfs-photography",
+    storageBucket: "nfs-photography.appspot.com",
+    messagingSenderId: "821365530361",
+    appId: "1:821365530361:web:6c3ba7aca4f225ae7ecc28"
 };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
-
 const auth = getAuth(app);
 
 export default auth;
