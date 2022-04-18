@@ -11,9 +11,11 @@ const Blogs = () => {
                 through passwords, one-time pins, biometric information, and other information
                 provided or entered by the user. Authorization works through settings that are
                 implemented and maintained by the organization.</p>
+
             <h1>2. Why are you using firebase? What other options do you have to implement authentication?</h1>
             <p>I am using firebase for authentication. There are many other optoins I have to
                 implement authentication. Such as Parse, Back4App, AWS Amplify, Kuzzle, RxDB, etc.</p>
+                
             <h1>3. What other services does firebase provide other than authentication</h1>
             <p>Services firebase provide other than authenticaiton are as follows:</p>
             <ul>

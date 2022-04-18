@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Batch tuition",
+        "price": "3000",
+        "description": "2 Senior Photographer,3 junior photographer",
+        "img": "https://www.uwinnipeg.ca/future-student/images/tuition-fees.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Private Tuition",
+        "price": "10000",
+        "description": "2 Top Photographer,1 junior photographer",
+        "img": ""
+    },
+    {
+        "id": 3,
+        "name": "Special Batch",
+        "price": "15000",
+        "description": "1 Senior Photographer,1 junior photographer",
+        "img": ""
+    },
+    {
+        "id": 4,
+        "name": "Model Test Batch",
+        "price": "20000",
+        "description": "3 Senior Photographer,1 junior photographer",
+        "img": ""
+    },
+    {
+        "id": 5,
+        "name": "Home Tutor",
+        "price": "10000",
+        "description": "2 Senior Photographer,1 junior photographer",
+        "img": ""
+    },
+    {
+        "id": 6,
+        "name": "Online Tuition",
+        "price": "5000",
+        "description": "1 Senior Photographer1 , junior photographer ",
+        "img": ""
+    }
+]
