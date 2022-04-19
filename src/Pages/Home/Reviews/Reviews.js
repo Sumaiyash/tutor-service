@@ -16,7 +16,7 @@ const Reviews = () => {
             <CardGroup>
                 <Row className='text-center mx-auto my-5'>
                     <h1>Thank You for<br />Your <span className='highlight_text'>Awesome</span> Reviews!</h1>
-                    <small>Hear from customers like you</small>
+                    <small>Hear from students like you</small>
                 </Row>
                 <Row xs={1} md={3} lg={3} className="g-2 mb-5">
                     {

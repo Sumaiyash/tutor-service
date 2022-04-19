@@ -1,6 +1,6 @@
-# NFS Photography
+#Tutor service
 
-[Live site link](https://github.com/facebook/create-react-app).
+[Live site link]( https://tutor-services-55917.web.app).
 
 ## Features and Functionality
 - Navigation bar connect with the necessary routes.
