@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Sumaiya Shompa",
+        "comment": "She is a very thoughtful teacher who puts a lot of thought into how he/she presents the material. Her lessons were engaging, useful, and she was very patient with everyone in class always encouraging his/her students to try.",
+        "img": "https://i.pinimg.com/474x/aa/42/7a/aa427a67d5dc8bc31629fbe50cc62abd.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Shafinur Rahman",
+        "comment": "She is a very thoughtful teacher who puts a lot of thought into how he/she presents the material. Her lessons were engaging, useful, and she was very patient with everyone in class always encouraging his/her students to try.",
+        "img": "https://i.pinimg.com/474x/aa/42/7a/aa427a67d5dc8bc31629fbe50cc62abd.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mehedy Hassan",
+        "comment": "She is a very thoughtful teacher who puts a lot of thought into how he/she presents the material. Her lessons were engaging, useful, and she was very patient with everyone in class always encouraging his/her students to try.",
+    
+        "img": "https://i.pinimg.com/474x/aa/42/7a/aa427a67d5dc8bc31629fbe50cc62abd.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Fareha Tahid",
+        "comment": " She is a very thoughtful teacher who puts a lot of thought into how he/she presents the material. Her lessons were engaging, useful, and she was very patient with everyone in class always encouraging his/her students to try.",
+    
+        "img": "https://i.pinimg.com/474x/aa/42/7a/aa427a67d5dc8bc31629fbe50cc62abd.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Jannat Lamia",
+        "comment": "She is a very thoughtful teacher who puts a lot of thought into how he/she presents the material. Her lessons were engaging, useful, and she was very patient with everyone in class always encouraging his/her students to try.",
+    
+        "img": "https://i.pinimg.com/474x/aa/42/7a/aa427a67d5dc8bc31629fbe50cc62abd.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Nusrat Kabir",
+        "comment": "She is a very thoughtful teacher who puts a lot of thought into how he/she presents the material. Her lessons were engaging, useful, and she was very patient with everyone in class always encouraging his/her students to try.",
+        
+        "img": "https://i.pinimg.com/474x/aa/42/7a/aa427a67d5dc8bc31629fbe50cc62abd.jpg"
+    }
+]

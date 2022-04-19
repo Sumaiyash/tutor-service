@@ -1,18 +1,33 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
+import { CardGroup,  Row } from 'react-bootstrap';
+import Review from '../Review/Reveiw';
+
+
 
 const Reviews = () => {
+    const [reviews, setReviews] = useState([]);
+    useEffect(() => {
+        fetch('reviews.json')
+            .then(res => res.json())
+            .then(data => setReviews(data))
+    }, []);
     return (
-        <div id='reviews' className='bg-info py-5 my-5'>
-            <h2 className='text-center'>Review Section</h2>
-            <p className='text-center'>Integer justo erat, consectetur ut facilisis at,
-                faucibus vel turpis. Interdum et malesuada fames ac ante ipsum
-                primis in faucibus. Mauris vel purus eros. Praesent eu felis quam.
-                Duis sit amet turpis quis velit dignissim dictum in consectetur urna.
-                Fusce porta ac magna sit amet consectetur. Aliquam felis lacus, tempus ut
-                gravida in, euismod eu mi. Cras nec venenatis arcu. Integer aliquet turpis
-                quis velit dignissim dictum in metus.</p>
+        <div id='reviews' className='container'>
+            <CardGroup>
+                <Row className='text-center mx-auto my-5'>
+                    <h1>Thank You for<br />Your <span className='highlight_text'>Awesome</span> Reviews!</h1>
+                    <small>Hear from customers like you</small>
+                </Row>
+                <Row xs={1} md={3} lg={3} className="g-2 mb-5">
+                    {
+                        reviews.map(review => <Review
+                            key={review.id}
+                            review={review}
+                        ></Review>)
+                    }
+                </Row>
+            </CardGroup>
         </div>
     );
 };
-
 export default Reviews;

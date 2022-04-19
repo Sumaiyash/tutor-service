@@ -15,8 +15,8 @@ const Banner = () => {
                     alt="First slide"
                 />
                 <Carousel.Caption>
-                    <h3>private tutor</h3>
-                    <p>Teaching is my passion</p>
+                    <h3>First slide label</h3>
+                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -27,8 +27,8 @@ const Banner = () => {
                 />
 
                 <Carousel.Caption>
-                    <h3>online tutor</h3>
-                    <p>education with digital learning</p>
+                    <h3>Second slide label</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -39,8 +39,8 @@ const Banner = () => {
                 />
 
                 <Carousel.Caption>
-                    <h3>Batch tuition</h3>
-                    <p>Focus on group study.</p>
+                    <h3>Third slide label</h3>
+                    <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
                 </Carousel.Caption>
             </Carousel.Item>
         </Carousel>
